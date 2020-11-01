@@ -1,9 +1,8 @@
 ## Hello, my name is Han.
 
-I am a computer science student at York University.
+I am a computer science student at York University. 
 
-[GitHub](https://github.com/GO48)
-[LinkenIn](https://www.linkedin.com/in/menghan-shen/)
+This is my [GitHub](https://github.com/GO48) and [LinkenIn](https://www.linkedin.com/in/menghan-shen/)
 
 This site wil be my blog and archieve for 汕大橘子社 Shantou University Orange Community.
 
